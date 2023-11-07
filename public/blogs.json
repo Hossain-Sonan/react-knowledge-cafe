@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/4TcJ6c4/blog-cover.jpg",
+      "title": "The Secret Garden",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/nRvZmm5/author1.jpg",
+      "posted date": "2023-03-15",
+      "reading time (hours)": 2,
+      "hashtags": ["#fiction", "#classics", "#nature"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://i.ibb.co/dLpkv0J/cover-2.jpg",
+      "title": "The Galactic Chronicles",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/QbFbW47/author2.jpg",
+      "posted date": "2023-04-20",
+      "reading time (hours)": 4.5,
+      "hashtags": ["#sciencefiction", "#space", "#adventure"]
+    },
+    {
+      "id": 13579,
+      "cover": "https://i.ibb.co/0YmDw62/cover3.jpg",
+      "title": "Mystery at Maplewood Manor",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/Z2J69BV/author3.jpg",
+      "posted date": "2023-05-10",
+      "reading time (hours)": 1.5,
+      "hashtags": ["#mystery", "#detective", "#suspense"]
+    },
+    {
+      "id": 24680,
+      "cover": "https://i.ibb.co/xj0XPmk/cover4.jpg",
+      "title": "Cooking Delights",
+      "author": "Chef Michael",
+      "author_img": "https://i.ibb.co/s3z9J6D/author4.jpg",
+      "posted date": "2023-06-05",
+      "reading time (hours)": 1,
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+      "id": 98765,
+      "cover": "https://i.ibb.co/7t9MZN0/cover5.jpg",
+      "title": "The Art of Photography",
+      "author": "Sarah Davis",
+      "author_img": "https://i.ibb.co/1XgWrbx/author5.jpg",
+      "posted date": "2023-07-12",
+      "reading time (hours)": 3,
+      "hashtags": ["#photography", "#art", "#creativity"]
+    }
+  ]
+  
